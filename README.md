@@ -19,4 +19,4 @@ Although West region shows higher total revenue, the difference in average trans
 Revenue difference is likely driven by order volume rather than higher per-transaction sales.
 
 ### Deliverable
-[View Task 4 Presentation](Task4 – Data Storytelling & Statistical Analysis.pdf)
+[View Task 4 Presentation](Task4%20–%20Data%20Storytelling%20&%20Statistical%20Analysis.pdf)
